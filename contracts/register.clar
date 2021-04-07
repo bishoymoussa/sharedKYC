@@ -1,5 +1,5 @@
-;(define-non-fungible-token company-ticket-nft uint)
-(define-non-fungible-token company-ticket-nft {index: uint})
+(define-non-fungible-token company-nft uint)
+
 (define-map registry
   ((company-id uint))
   (
