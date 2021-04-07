@@ -35,7 +35,7 @@
     (map-insert validations {id: id} {hash: hash})
     (ok true)
   ))
-
+  
 ;; formalizing access control 
 ;; as if I am creating (Tinder) Matcher
 ;; map access grants --> func. (requester_princple(service provider), service_provider)
