@@ -46,13 +46,3 @@
 ;; ;; Add token as validation ? Maybe
 ;; (define-non-fungible-token KYC-item
 ;;   {data: (string-utf8 256), index: uint})
-
-
-;; ;; the data would be stored somehow
-
-;; (nft-mint? KYC-item
-;; {
-;;   data: u"https://tinyurl.com/e5brt4kd",
-;;   index: u1
-;; } 
-;;   'SP3GWX3NE58KXHESRYE4DYQ1S31PQJTCRXB3PE9SB)
